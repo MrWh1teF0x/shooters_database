@@ -1,2 +1,2 @@
 # shooters_database
-Database project of the second year on MIPT
+Database project of the second year in MIPT
